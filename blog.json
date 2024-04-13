@@ -1,7 +1,7 @@
 {
     "posts":[
     {
-      "imageUrl": "https://source.unsplash.com/random?tech,wiz",
+      "imageUrl": "https://source.unsplash.com/random?tech",
       "badge": "Tech Whiz",
       "datePublished": "April 10, 2024",
       "title": "Robots with Feelings? The Emotional CPU",
@@ -10,7 +10,7 @@
       "authorName": "Siri Alexa"
     },
     {
-      "imageUrl": "https://source.unsplash.com/?health,nut",
+      "imageUrl": "https://source.unsplash.com/?health",
       "badge": "Health Nut",
       "datePublished": "April 9, 2024",
       "title": "Kale Smoothies & You: A Love Story",
@@ -19,7 +19,7 @@
       "authorName": "Broccoli Spears"
     },
     {
-      "imageUrl": "https://source.unsplash.com/?globetrotter",
+      "imageUrl": "https://source.unsplash.com/?globe",
       "badge": "Globe Trotter",
       "datePublished": "April 8, 2024",
       "title": "Visiting the World's Only Underwater Pizzeria",
@@ -28,7 +28,7 @@
       "authorName": "Marco Pollo"
     },
     {
-      "imageUrl": "https://source.unsplash.com/book,worm",
+      "imageUrl": "https://source.unsplash.com/book",
       "badge": "Book Worm",
       "datePublished": "April 7, 2024",
       "title": "Why Your Bookshelf Hates You",
@@ -37,7 +37,7 @@
       "authorName": "Page Turner"
     },
     {
-      "imageUrl": "https://source.unsplash.com/eco,warrior",
+      "imageUrl": "https://source.unsplash.com/warrior",
       "badge": "Eco Warrior",
       "datePublished": "April 6, 2024",
       "title": "Recycling Your Old Socks: The Unsockpected Resource",
