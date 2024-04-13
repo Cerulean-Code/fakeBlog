@@ -1,4 +1,5 @@
-[
+{
+    "posts":[
     {
       "imageUrl": "https://source.unsplash.com/random",
       "badge": "Tech Whiz",
@@ -45,4 +46,4 @@
       "authorName": "Summer Green"
     }
   ]
-
+}
