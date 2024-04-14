@@ -1,57 +1,58 @@
 {
-    "posts":[
-    {
-      "imageUrl": "https://source.unsplash.com/random?tech",
-      "badge": "Tech Whiz",
-      "datePublished": "April 10, 2024",
-      "title": "Robots with Feelings? The Emotional CPU",
-      "description": "Are robots about to get a software update that lets them cry during sad movies? Dive into the world of emotional processors!",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Siri+Alexa&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Siri Alexa"
-    },
-    {
-      "imageUrl": "https://source.unsplash.com/random?health",
-      "badge": "Health Nut",
-      "datePublished": "April 9, 2024",
-      "title": "Kale Smoothies & You: A Love Story",
-      "description": "Discover why your blender might just be your soulmate in the quest for peak wellness.",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Broccoli+Spears&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Broccoli Spears"
-    },
-    {
-      "imageUrl": "https://source.unsplash.com/random?globe",
-      "badge": "Globe Trotter",
-      "datePublished": "April 8, 2024",
-      "title": "Visiting the World's Only Underwater Pizzeria",
-      "description": "Grab your scuba gear and join us as we dive deep into the cheesy depths of the Marinara Trench!",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Marco+Pollo&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Marco Pollo"
-    },
-    {
-      "imageUrl": "https://source.unsplash.com/random?book",
-      "badge": "Book Worm",
-      "datePublished": "April 7, 2024",
-      "title": "Why Your Bookshelf Hates You",
-      "description": "Ever wonder why your bookshelf groans when you buy another hardcover? It's time to find out!",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Page+Turner&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Page Turner"
-    },
-    {
-      "imageUrl": "https://source.unsplash.com/random?warrior",
-      "badge": "Eco Warrior",
-      "datePublished": "April 6, 2024",
-      "title": "Recycling Your Old Socks: The Unsockpected Resource",
-      "description": "Uncover the shocking truths and exciting futures of your neglected foot garments in the green revolution!",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Summer+Green&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Summer Green"
-    }, {
-      "imageUrl": "https://source.unsplash.com/random?warrior",
-      "badge": "Eco Warrior",
-      "datePublished": "April 6, 2024",
-      "title": "Recycling Your Old Socks: The Unsockpected Resource",
-      "description": "Uncover the shocking truths and exciting futures of your neglected foot garments in the green revolution!",
-      "authorImageUrl": "https://api.dicebear.com/8.x/notionists/svg?seed=Summer+Green&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
-      "authorName": "Summer Green"
-    }
-  ]
+   "posts":[
+      {
+         "imageUrl":"https://source.unsplash.com/random?tech",
+         "badge":"Tech Whiz",
+         "datePublished":"April 10, 2024",
+         "title":"Robots with Feelings? The Emotional CPU",
+         "description":"Are robots about to get a software update that lets them cry during sad movies? Dive into the world of emotional processors!",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Siri+Alexa&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Siri Alexa"
+      },
+      {
+         "imageUrl":"https://source.unsplash.com/random?health",
+         "badge":"Health Nut",
+         "datePublished":"April 9, 2024",
+         "title":"Kale Smoothies & You: A Love Story",
+         "description":"Discover why your blender might just be your soulmate in the quest for peak wellness.",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Broccoli+Spears&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Broccoli Spears"
+      },
+      {
+         "imageUrl":"https://source.unsplash.com/random?globe",
+         "badge":"Globe Trotter",
+         "datePublished":"April 8, 2024",
+         "title":"Visiting the World's Only Underwater Pizzeria",
+         "description":"Grab your scuba gear and join us as we dive deep into the cheesy depths of the Marinara Trench!",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Marco+Pollo&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Marco Pollo"
+      },
+      {
+         "imageUrl":"https://source.unsplash.com/random?book",
+         "badge":"Book Worm",
+         "datePublished":"April 7, 2024",
+         "title":"Why Your Bookshelf Hates You",
+         "description":"Ever wonder why your bookshelf groans when you buy another hardcover? It's time to find out!",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Page+Turner&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Page Turner"
+      },
+      {
+         "imageUrl":"https://source.unsplash.com/random?warrior",
+         "badge":"Eco Warrior",
+         "datePublished":"April 6, 2024",
+         "title":"Recycling Your Old Socks: The Unsockpected Resource",
+         "description":"Uncover the shocking truths and exciting futures of your neglected foot garments in the green revolution!",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Summer+Green&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Summer Green"
+      },
+      {
+         "imageUrl":"https://source.unsplash.com/random?cyberpunk",
+         "badge":"Cyberpunk",
+         "datePublished":"April 5, 2024",
+         "title":"Eddie farming: How to farm unlimited eddies",
+         "description":"See how to gain eddies, in the sprawling downtown area",
+         "authorImageUrl":"https://api.dicebear.com/8.x/notionists/svg?seed=Summer+Green&scale=110&backgroundType=solid,gradientLinear&backgroundRotation=-280&randomizeIds=true&bodyIconProbability=65&gestureProbability=45&backgroundColor=ffdfbf,ffd5dc,c0aede,b6e3f4,d1d4f9",
+         "authorName":"Punkd"
+      }
+   ]
 }
